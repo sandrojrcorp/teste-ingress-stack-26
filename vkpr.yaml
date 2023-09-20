@@ -10,5 +10,3 @@ cert-manager:
     solver: "DNS01"
 external-dns:
   enabled: true
-nginx:
-  enabled: true
